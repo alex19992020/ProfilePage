@@ -1,0 +1,15 @@
+.carousel{
+    width: 500px;
+    height: 500px;
+}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+
+.carousel{
+    margin-left: 460px;
+}
+body{
+    background-color: red;
+}
+
